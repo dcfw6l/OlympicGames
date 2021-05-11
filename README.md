@@ -14,7 +14,7 @@ Jupyter notebookot használtam és a pandas sokszínű adatmegjelenítési eszk�
 
 Különböző következtetéseket lehet levonni az adott szezonra csapatokra lebontva.
 
-A témáról a videó [itt](https://web.microsoftstream.com/video/9fc1a4bc-9702-4cdd-b2d4-18dbb678aef9?list=studio) érhető el.
+A témáról a videó [itt](https://web.microsoftstream.com/video/3916a456-00cc-4a06-8425-bd563120bf7b?list=studio) érhető el.
 
 
 # Hogyan tudod futtatni a saját gépeden?
